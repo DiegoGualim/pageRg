@@ -156,7 +156,7 @@ ul li {
 }
 
 .div2 {
-    width: 237px;
+    width: 450px;
     font-size: 36px;
     line-height: 40px;
     font-family: 'Muli';
@@ -164,7 +164,7 @@ ul li {
     height: 40px;
     position: absolute;
     top: 70%;
-    left: 50%;
+    left: 45%;
     margin-top: -15px;
     margin-left: -118px;
 }
